@@ -1,3 +1,3 @@
-`#school admission system
+#school admission system
 
 
