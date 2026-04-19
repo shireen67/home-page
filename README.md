@@ -1,3 +1,3 @@
-#school admission system(smart future academy)
+`#school admission system
 
 
